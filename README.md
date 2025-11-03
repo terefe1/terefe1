@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Terefe Hordofa
 
-### 💻 Full Stack Developer | Building Modern Web Applications
+### 💻 Full Stack Developer | Building Modern Web and Mobile Apps | Passionate About Clean Code & Professional UI/UX
 
 ---
 
@@ -17,7 +17,7 @@ Always learning, I focus on writing clean, maintainable code and solving real-wo
 
 ---
 
-## 🧩 Tech Stack & Frameworks I've Worked With
+## 🧩 Tech Stack & Frameworks
 
 ### 🌐 Front-End  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -50,10 +50,6 @@ Always learning, I focus on writing clean, maintainable code and solving real-wo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-**Operating Systems:** Unix, Linux, Windows  
-
-**Languages & Markup:** PHP, SQL, XML, HTML/HTML5, CSS/CSS3, JavaScript, Python, JSON, Ajax, C#
-
 ---
 
 ## 🚀 Featured Project
@@ -61,23 +57,14 @@ Always learning, I focus on writing clean, maintainable code and solving real-wo
 ### 🌟 [PortfolioSite](#)
 A responsive personal portfolio built with **Next.js** and **React**, showcasing projects, skills, and contact information with a modern, interactive UI.
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010a1a67dc7a71cf25?viewMode=1)  
+[![Email](https://img.shields.io/badge/Email-DarkBlue?style=flat-square&logo=gmail&logoColor=white)](mailto:dimprotecon@gmail.com)
 
 ---
-
-## 💬 “Code is like humor. When you have to explain it, it’s bad.”  
-— *Cory House*
 
 ⭐️ Thanks for visiting! Feel free to check out my repositories and connect with me.
