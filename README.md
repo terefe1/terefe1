@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Terefe Hordofa
 
-### 💻 Full Stack Developer | Building Modern Web and Mobile Apps | Passionate About Clean Code & Professional UI/UX
+### 💻 Full Stack Developer | Building Modern Web and Mobile Apps | Passionate About Clean Code & Modern UI/UX
 
 ---
 
@@ -49,6 +49,9 @@ Always learning, I focus on writing clean, maintainable code and solving real-wo
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
+**Operating Systems:** Unix, Linux, Windows, Android and iOS
 
 ---
 
