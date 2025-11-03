@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I’m a **Full Stack Web Developer** passionate about turning ideas into functional, user-focused applications.  
+I’m a **Full Stack Developer** passionate about turning ideas into functional, user-focused applications.  
 I enjoy blending **front-end design** with **back-end logic** to create seamless digital experiences.  
 Always learning, I focus on writing clean, maintainable code and solving real-world problems.  
 
@@ -17,7 +17,7 @@ Always learning, I focus on writing clean, maintainable code and solving real-wo
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Tech Stack & Frameworks I've Worked With
 
 ### 🌐 Front-End  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
