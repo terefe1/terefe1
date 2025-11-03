@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Terefe Hordofa
 
 ### 💻 Full Stack Developer | Building Scalable Web Apps | Passionate About Clean Code & Great UX
 
