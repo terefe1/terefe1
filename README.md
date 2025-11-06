@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Terefe Hordofa
 
-### 💻 Full Stack Developer | Building Modern Web and Mobile Apps | Passionate About Clean Code & Modern UI/UX
+### 💻 Full Stack Developer | Building Modern Web and Mobile Apps | Modern UI/UX
 
 ---
 
